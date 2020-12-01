@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>block.png</file>
+        <file>zeee.GIF</file>
+        <file>levo.png</file>
+        <file>pravo.png</file>
+        <file>verx.png</file>
+        <file>vniz.png</file>
+        <file>1bl.png</file>
+        <file>2bl.png</file>
+        <file>3bl.png</file>
+    </qresource>
+</RCC>
